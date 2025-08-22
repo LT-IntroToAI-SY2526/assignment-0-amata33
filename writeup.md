@@ -14,7 +14,7 @@ All answers can be found in the README.md file
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-[Your answer here]
+[Commit changes is to save the changes you have done in your code, it's important for that reason. You don't want to lose your hard work with just the closing of a tab right]
 
 **3. What is a repository and what does it contain?**
 
